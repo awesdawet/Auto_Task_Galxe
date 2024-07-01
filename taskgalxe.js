@@ -1,4 +1,3 @@
-
 const _0x36922a = _0x497f;
 function _0x5274() {
   const _0x516b42 = [
