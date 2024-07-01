@@ -1,1 +1,126 @@
-javascript:(function()%7Bconst n%3DI%3B(function(N%2Cb)%7Bconst y%3DI%2CG%3DN()%3Bwhile(!!%5B%5D)%7Btry%7Bconst h%3D-parseInt(y(0x1ab))%2F0x1*(-parseInt(y(0x1ad))%2F0x2)%2B-parseInt(y(0x1ac))%2F0x3*(parseInt(y(0x1a4))%2F0x4)%2B-parseInt(y(0x1a9))%2F0x5%2BparseInt(y(0x1a3))%2F0x6%2BparseInt(y(0x1a8))%2F0x7%2BparseInt(y(0x1ae))%2F0x8%2BparseInt(y(0x1af))%2F0x9%3Bif(h%3D%3D%3Db)break%3Belse G%5B'push'%5D(G%5B'shift'%5D())%3B%7Dcatch(j)%7BG%5B'push'%5D(G%5B'shift'%5D())%3B%7D%7D%7D(J%2C0xdc14d))%3Bfunction I(N%2Cb)%7Bconst G%3DJ()%3Breturn I%3Dfunction(h%2Cj)%7Bh%3Dh-0x1a3%3Blet y%3DG%5Bh%5D%3Breturn y%3B%7D%2CI(N%2Cb)%3B%7Dconst elementsToClick%3Ddocument%5B'querySelectorAll'%5D(n(0x1a6))%2CclickElement%3DN%3D>%7Bconst D%3Dn%2Cb%3Dnew MouseEvent(D(0x1aa)%2C%7B'view'%3Awindow%2C'bubbles'%3A!!%5B%5D%2C'cancelable'%3A!!%5B%5D%7D)%3BN%5BD(0x1a7)%5D(b)%3B%7D%3Bfunction J()%7Bconst P%3D%5B'thank%5Cx20me%5Cx20later%5Cx20%7C%5Cx20Credit%3A%5Cx20Ipeenk.eth | Singgih Sans'%2C'.d-flex.height-100.width-100.click-area'%2C'dispatchEvent'%2C'2551108suoGnY'%2C'6712685ttxQag'%2C'click'%2C'97637rzkWdf'%2C'3RyoILW'%2C'14saYZFo'%2C'2344464QaOdMh'%2C'23018634FdAPzr'%2C'716580lQcdJY'%2C'7096108aGNvFA'%5D%3BJ%3Dfunction()%7Breturn P%3B%7D%3Breturn J()%3B%7DelementsToClick%5B'forEach'%5D(clickElement)%2Calert(n(0x1a5))%3B%7D)()%3B
+
+const _0x36922a = _0x497f;
+function _0x5274() {
+  const _0x516b42 = [
+    'button.inline-flex.bg-primary:not([disabled])',
+    'button.absolute.rounded-sm.opacity-70.right-5.top-6.sm\x5c:right-9.sm\x5c:top-9',
+    '.text-size-14.font-bold',
+    '35gQwDne',
+    '277620yrXTYP',
+    '693212uRArZT',
+    '10XiPEYc',
+    'length',
+    'querySelector',
+    '263061TXsVpZ',
+    'log',
+    '9xXLime',
+    '562428MoGfya',
+    'querySelectorAll',
+    'click',
+    '443272wviMjY',
+    '2055752JchJhQ',
+    'dispatchEvent',
+    '6919KBZYzm',
+    'svg[data-state=\x22closed\x22]\x20.ml-4.flex.gap-4.items-center',
+    '12030eRCjzt',
+    'forEach',
+  ];
+  _0x5274 = function () {
+    return _0x516b42;
+  };
+  return _0x5274();
+}
+(function (_0x2cbd1c, _0x13e489) {
+  const _0x1e795c = _0x497f,
+    _0x46de30 = _0x2cbd1c();
+  while (!![]) {
+    try {
+      const _0x4161ea =
+        -parseInt(_0x1e795c(0x190)) / 0x1 +
+        parseInt(_0x1e795c(0x18c)) / 0x2 +
+        parseInt(_0x1e795c(0x193)) / 0x3 +
+        (-parseInt(_0x1e795c(0x196)) / 0x4) *
+          (-parseInt(_0x1e795c(0x18d)) / 0x5) +
+        (-parseInt(_0x1e795c(0x18b)) / 0x6) *
+          (-parseInt(_0x1e795c(0x1a0)) / 0x7) +
+        (parseInt(_0x1e795c(0x197)) / 0x8) *
+          (parseInt(_0x1e795c(0x192)) / 0x9) +
+        (-parseInt(_0x1e795c(0x19b)) / 0xa) *
+          (parseInt(_0x1e795c(0x199)) / 0xb);
+      if (_0x4161ea === _0x13e489) break;
+      else _0x46de30['push'](_0x46de30['shift']());
+    } catch (_0x49686e) {
+      _0x46de30['push'](_0x46de30['shift']());
+    }
+  }
+})(_0x5274, 0x36c21);
+const elementsToClick = document[_0x36922a(0x194)](
+    'div[data-state=\x22closed\x22]\x20.cursor-pointer'
+  ),
+  refreshButtonClass =
+    'button[data-state=\x22closed\x22]\x20.ml-4.flex.gap-4.items-center',
+  waitForClass = _0x36922a(0x19f),
+  successIconClass = _0x36922a(0x19a),
+  claimButtonSelector = _0x36922a(0x19d),
+  closeButtonSelector = _0x36922a(0x19e);
+function clickElement(_0x2208d8) {
+  const _0x539b18 = _0x36922a,
+    _0x3c7c78 = new MouseEvent(_0x539b18(0x195), {
+      view: window,
+      bubbles: !![],
+      cancelable: !![],
+    });
+  _0x2208d8[_0x539b18(0x198)](_0x3c7c78);
+}
+function closePopup() {
+  const _0x4249bb = _0x36922a,
+    _0x2da1ac = document[_0x4249bb(0x18f)](closeButtonSelector);
+  _0x2da1ac &&
+    (clickElement(_0x2da1ac), console[_0x4249bb(0x191)]('Popup\x20closed.'));
+}
+function checkClaimButton() {
+  const _0x2e8229 = _0x36922a,
+    _0x49c844 = document['querySelector'](claimButtonSelector);
+  if (_0x49c844)
+    return (
+      clickElement(_0x49c844),
+      console[_0x2e8229(0x191)](
+        'Claim\x20button\x20clicked.\x20Subscribe:\x20https://t.me/HappyCuanAirdrop'
+      ),
+      setTimeout(closePopup, 0x7d0),
+      !![]
+    );
+  return ![];
+}
+function checkConditionsAndRetry() {
+  const _0x2eae8d = _0x36922a,
+    _0x6dd6b3 = document[_0x2eae8d(0x194)](waitForClass),
+    _0x605121 = document[_0x2eae8d(0x194)](successIconClass);
+  _0x6dd6b3[_0x2eae8d(0x18e)] > 0x0 ||
+  _0x605121[_0x2eae8d(0x18e)] !== elementsToClick['length']
+    ? setTimeout(processElements, 0xea60)
+    : checkClaimButton();
+}
+function _0x497f(_0xa67890, _0x1f3538) {
+  const _0x527456 = _0x5274();
+  return (
+    (_0x497f = function (_0x497fd2, _0x7ff795) {
+      _0x497fd2 = _0x497fd2 - 0x18b;
+      let _0x5f2151 = _0x527456[_0x497fd2];
+      return _0x5f2151;
+    }),
+    _0x497f(_0xa67890, _0x1f3538)
+  );
+}
+function processElements() {
+  const _0x20a19a = _0x36922a;
+  !checkClaimButton() &&
+    (elementsToClick[_0x20a19a(0x19c)](clickElement),
+    setTimeout(() => {
+      const _0x3c2249 = _0x20a19a,
+        _0x5a20c6 = document[_0x3c2249(0x194)](refreshButtonClass);
+      _0x5a20c6[_0x3c2249(0x19c)](clickElement),
+        setTimeout(checkConditionsAndRetry, 0x7d0);
+    }, 0x7d0));
+}
+processElements();
